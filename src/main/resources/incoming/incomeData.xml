@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student firstName="Garold" lastName="Fixdale" average="4">
+        <subjectList>
+            <subject title="BD administration" mark="5"/>
+            <subject title="Data science" mark="3"/>
+            <subject title="AOP principles" mark="4"/>
+        </subjectList>
+    </student>
+</students>
